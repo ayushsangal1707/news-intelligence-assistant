@@ -1,0 +1,44 @@
+# Reuters
+https://feeds.reuters.com/reuters/topNews
+https://feeds.reuters.com/reuters/worldNews
+https://feeds.reuters.com/reuters/businessNews
+https://feeds.reuters.com/reuters/technologyNews
+
+# BBC
+http://feeds.bbci.co.uk/news/rss.xml
+http://feeds.bbci.co.uk/news/world/rss.xml
+http://feeds.bbci.co.uk/news/business/rss.xml
+http://feeds.bbci.co.uk/news/technology/rss.xml
+
+# AP News
+https://apnews.com/hub/ap-top-news/rss.xml
+https://apnews.com/hub/business/rss.xml
+https://apnews.com/hub/technology/rss.xml
+
+# CNBC
+https://www.cnbc.com/id/100003114/device/rss/rss.html
+https://www.cnbc.com/id/10001147/device/rss/rss.html
+
+# India
+https://www.thehindu.com/news/national/feeder/default.rss
+https://www.thehindu.com/business/feeder/default.rss
+https://www.livemint.com/rss/news
+https://www.business-standard.com/rss/home_page_top_stories.rss
+
+# Economics / Markets
+https://feeds.marketwatch.com/marketwatch/topstories/
+https://www.investing.com/rss/news.rss
+
+# Technology
+https://techcrunch.com/feed/
+https://www.theverge.com/rss/index.xml
+https://www.wired.com/feed/rss
+
+# Science
+https://www.sciencedaily.com/rss/top.xml
+
+# Politics
+https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+
+# General World News
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
